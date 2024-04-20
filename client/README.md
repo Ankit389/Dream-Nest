@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+#Is there a problem with the server in the project? The server is not working, can it also be fixed?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
